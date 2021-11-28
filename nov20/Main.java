@@ -77,7 +77,7 @@ stack1.push(data);
     }
 }
 
-public class main
+public class Main
 {
 
 
